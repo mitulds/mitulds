@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mitulds
+- 👋 Hi, I’m @mitul
 - 👀 I’m interested in everything related to Data
 - 🌱 I’m currently learning MLOps and DevOps
 - 💞️ I’m currently a ***Data Scientist at Decathlon Canada***
