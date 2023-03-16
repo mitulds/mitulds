@@ -2,7 +2,7 @@
 - 👀 I’m interested in everything related to Data
 - 🌱 I’m currently learning MLOps and DevOps
 - 💞️ I’m currently a ***Data Scientist at Decathlon Canada***
-- :microphone: I'm currently a host of ***The Data Science Show***
+- :microphone: I'm currently a host of ***Data To Production***
 - 📫 How to reach me https://www.linkedin.com/in/mitul-patel2393/
 
 <!---
